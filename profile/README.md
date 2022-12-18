@@ -1,3 +1,3 @@
 ## ORGANIZATION README ##
 
-<img src="https://unsplash.com/photos/5afenxnLDjs" width="128"/>
+<img src="img.jpg" width="128"/>
