@@ -1,3 +1,3 @@
 ## ORGANIZATION README ##
 
-![BOT!](bot.jpg)
+![BOT!](/images/bot.jpg)
