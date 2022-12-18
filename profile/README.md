@@ -1,3 +1,5 @@
 ## ORGANIZATION README ##
 
-<img src="img.jpg" width="128"/>
+![alt text](https://unsplash.com/photos/5afenxnLDjs)
+
+![alt text](https://github.com/[Abdullahi-design]/[.github]/blob/[branch]/https://unsplash.com/photos/5afenxnLDjs?raw=true)
