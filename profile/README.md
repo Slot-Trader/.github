@@ -1,6 +1,6 @@
 ## SLOT TRADER ##
 
-🌱 We are building powerful **AI Crypro trading bots** for consistent **Profits**<br/>
+🌱 We are building powerful **AI Crypro trading bots** for **Consistent Profits**<br/>
 📢 **SOON TO BE OPEN SOURCE** <br/>
 🤝  We are using some **Powerful and Sclable languages** to build <br/>
 
