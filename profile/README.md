@@ -1,6 +1,6 @@
 ## SLOT TRADER ##
 
-🌱 We are building powerful all kinds **AI bots** for **Fun** and **Consistent Profits**<br/>
+🌱 We are building powerful **AI bots** for **Fun** and **Consistent Profits**<br/>
 📢 **SOON TO BE OPEN SOURCE** <br/>
 🤝  We are using some **Powerful and Sclable languages** to build <br/>
 
