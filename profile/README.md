@@ -1,4 +1,4 @@
-## SLOT TRADER ##
+## Penman AI ##
 
 🌱 We are building powerful **AI bots** for **Fun** and **Consistent Profits**<br/>
 📢 **SOON TO BE OPEN SOURCE** <br/>
